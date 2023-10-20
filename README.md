@@ -52,12 +52,18 @@ The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
 
+![image](https://github.com/Vijayalakshmi230/Ex-01-Linux-Commands/assets/127175503/35afe04b-6239-4e91-8708-58b6fe4b7a94)
+
+
 
 ### 5)	cd Command
 
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
+
+![image](https://github.com/Vijayalakshmi230/Ex-01-Linux-Commands/assets/127175503/dad52a65-6e14-4299-99ff-cea8ac3bd8e8)
+
 
 
 ### 6)	cat Command
@@ -66,12 +72,16 @@ The cat command is a multi-purpose utility in the Linux system. It can be used t
 
 Syntax: cat [OPTION]... [FILE]..
 
+![image](https://github.com/Vijayalakshmi230/Ex-01-Linux-Commands/assets/127175503/ff3e6bdd-a6b4-44f4-b16f-891c8fd0a5d0)
+
  
 ### 7)	cp Command
 
 The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
+
+
 
 
 
