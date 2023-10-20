@@ -23,6 +23,9 @@ The ls command is used to display a list of content of a directory.
 
  Syntax: ls
 
+ ![image](https://github.com/Vijayalakshmi230/Ex-01-Linux-Commands/assets/127175503/9afe7446-bc19-472b-8271-919b7f1523a9)
+
+
 
 ### 2)	pwd Command
 
@@ -30,12 +33,17 @@ The pwd command is used to display the location of the current working directory
 
 Syntax: pwd
 
+![image](https://github.com/Vijayalakshmi230/Ex-01-Linux-Commands/assets/127175503/b56ca8c7-c149-4689-bd01-73f05e0270fb)
+
+
  
 ### 3)	mkdir Command
 
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
+
+![image](https://github.com/Vijayalakshmi230/Ex-01-Linux-Commands/assets/127175503/3a789858-81ec-4558-81e4-84deb793b416)
 
 
 ### 4)	rmdir Command
